@@ -5,9 +5,40 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:gray;
+  background-image: url("https://img.freepik.com/premium-photo/call-duty-colorful-gaming-wallpaper-4k_669273-269.jpg");
+  background-repeat: cover;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#Navbar {
+font-size: large;
+
+}
+#home {
+font-size:xx-large;
+text-align: center;
+min-height: 100dvh;
+color: white;
+position:relative;
+top:400px;
+}
+label {
+color: white;
+font-size: large;
+background-color: gray;
+font-style: bold;
+}
+button {
+  font-size: large;
+  width: 250px
+
+ }
+ #AddGame {
+  background-color: gray;
+  width: 500px;
+  position: center;
+ }
